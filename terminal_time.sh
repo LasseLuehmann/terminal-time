@@ -1,2 +1,2 @@
 echo $(date)
-echo "Welcome Lasse"
+echo Welcome `whoami`
